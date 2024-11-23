@@ -29,4 +29,4 @@ This project is a simple web app to validate email addresses using HTML, CSS, Ja
 ## Usage
 1. Clone the repository:
    ```bash
-   git clone https://github.com/Dhirajmn/iValidate:-An-Email-Validator-App.git
+   git clone https://github.com/Dhirajmn/html-css-js-projects/iValidate:-An-Email-Validator-App.git
